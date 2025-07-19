@@ -100,7 +100,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact [bmangalisomlotshwa@gmail.com].
 
 ---
 
@@ -110,5 +110,4 @@ For questions or support, please contact [your-email@example.com].
 - Teachers can now set a due date when creating assignments/tasks.
 - The calendar view highlights assignment due dates for both teachers and students.
 - Clicking a highlighted due date in the calendar opens the task details page. 
-# TreeAppWeb
-A Modern Platform For Teachers And Students To Manage Assignments, Submissions, Feedback, And More
+

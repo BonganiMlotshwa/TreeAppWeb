@@ -51,28 +51,28 @@ A modern web platform for teachers and students to manage assignments, submissio
 ### File Structure
 
 ```
-TreeAppWeb/
-  â”œâ”€â”€ assets/                # CSS, JS, images, fonts, and data files
-  â”œâ”€â”€ auth.php               # Authentication logic
-  â”œâ”€â”€ db.php                 # Database connection
-  â”œâ”€â”€ index.php              # Main dashboard (role-based)
-  â”œâ”€â”€ login.php              # Login page
-  â”œâ”€â”€ logout.php             # Logout logic
-  â”œâ”€â”€ signup.php             # Registration page
-  â”œâ”€â”€ teacher_dashboard.php  # Teacher dashboard
-  â”œâ”€â”€ student_dashboard.php  # Student dashboard
-  â”œâ”€â”€ courses.php            # Course management
-  â”œâ”€â”€ calendar.php           # Calendar view
-  â”œâ”€â”€ profile.php            # User profile
-  â”œâ”€â”€ tasks.php              # Task management
-  â”œâ”€â”€ submit_task.php        # Task submission
-  â”œâ”€â”€ view_submissions.php   # View student submissions
-  â”œâ”€â”€ view_task.php          # View individual task
-  â”œâ”€â”€ report_problem.php     # Report issues
-  â”œâ”€â”€ view_reports.php       # View reported problems
-  â”œâ”€â”€ uploads/               # Uploaded files
-  â””â”€â”€ tree_app.sql           # Database schema
-```
+   TreeAppWeb/
+     assets/                # CSS, JS, images, fonts, and data files
+      auth.php               # Authentication logic
+     db.php                 # Database connection
+      index.php              # Main dashboard (role-based)
+     login.php              # Login page
+     logout.php             # Logout logic
+    signup.php             # Registration page
+   teacher_dashboard.php  # Teacher dashboard
+    student_dashboard.php  # Student dashboard
+    courses.php            # Course management
+   calendar.php           # Calendar view
+      profile.php            # User profile
+    tasks.php              # Task management
+    submit_task.php        # Task submission
+    view_submissions.php   # View student submissions
+    view_task.php          # View individual task
+     report_problem.php     # Report issues
+     view_reports.php       # View reported problems
+      uploads/               # Uploaded files
+      tree_app.sql           # Database schema
+   ```
 
 ### Customization
 
